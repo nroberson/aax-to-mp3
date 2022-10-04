@@ -1,0 +1,7 @@
+bin/
+out/
+*.aax
+*.mp3
+*.zip
+.DS_Store
+activation_bytes
